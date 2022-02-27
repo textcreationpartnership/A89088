@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The character of a compleat physician, or naturalist</title>
+            <author>Merret, Christopher, 1614-1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89088</idno>
+            <idno type="STC">Wing M1835C</idno>
+            <idno type="STC">ESTC R231920</idno>
+            <idno type="EEBO-CITATION">99897512</idno>
+            <idno type="PROQUEST">99897512</idno>
+            <idno type="VID">133296</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89088)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133296)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2503:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The character of a compleat physician, or naturalist</title>
+                  <author>Merret, Christopher, 1614-1695.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>By Christopher Merret.</note>
+                  <note>Date of publication from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Wellcome Institute for the History of Medicine, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Physicians --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:133296:1"/>
+            <!-- PDF PAGE 93 -->
+            <pb n="1" facs="tcp:133296:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 93 -->
+            <head>THE CHARACTER OF A <hi>Compleat Phyſician,</hi> Or <hi>NAT<g ref="char:V">Ʋ</g>RALIST.</hi>
+            </head>
+            <p>DR. <hi>Hackwel</hi> in his Apology very aptly calls Anatomy, and the Knowledge of Simples, the two Legs of Phyſic. And that the Compleat Phyſician may have both his Legs, I ſhall follow his footſteps.</p>
+            <p>
+               <hi>Anatomy</hi> is of greateſt fame and repute, tho not of much real uſe to the curing Mankind. The uſe of Simple doth the moſt part to the only end of this Art, Man's Health, which is the Difference in its Definition. The former reſpects Contemplation, the latter the Practice; and therefore call'd by us Phyſic. The former is performed at home in a Houſe, with little expence of time, labor, or pains taking; the latter requires all theſe in a high meaſure.</p>
+            <p>The Compleat Phyſician (ſuppoſing in him Univerſity Learn<g ref="char:EOLhyphen"/>ing) muſt begin with Anatomy, the Subject of his Art: He muſt know all Parts, and their Sub-diviſions, whether ſimilar or orga<g ref="char:EOLhyphen"/>nical, chiefly the Veſſels and all Paſſages of the Body, the uſe of Parts, their Situation, Connexion, Figure, Structure, Propor<g ref="char:EOLhyphen"/>tions, Complements, Defects, Communities, Differences, com<g ref="char:EOLhyphen"/>pounding Elements, Faculties, Actions, and Uſes, which are per<g ref="char:EOLhyphen"/>formed by Artificial Diſſections, Meaſurings, Ligatures, Infla<g ref="char:EOLhyphen"/>tions, Injections, and other uſeful Operations. He is to be well verſed alſo in Comparative Anatomy, in all ſorts of Animals whatſoever; By which means he will diſcover the ſeat of Diſeaſes,
+<pb n="2" facs="tcp:133296:2"/>
+               <!-- PDF PAGE 94 -->and Symptoms, their Cauſes, and Effects, Sympathies, and Anti<g ref="char:EOLhyphen"/>pathies; which way the matter of Diſeaſes paſſeth from part to part, and alſo of all the fluids in our Bodies. 'Tis helpful alſo very much in the Prognoſticks, as well as in the Diagnoſticks.</p>
+            <p>In the Practical it teacheth what Veins or Arteries are fitteſt to be opened, where Fontanels to be made, where Cupping-glaſſes, Plaiſters, Oyntments, <hi>&amp;c.</hi> are to be applyed, where and how In<g ref="char:EOLhyphen"/>ciſions to be made.</p>
+            <p>This part of Nature hath bin very well cultivated by many learned Hands, both abroad and at home, by the Two Glories of our Nation the Immortal <hi>Harvey,</hi> my honoured Friend and Pa<g ref="char:EOLhyphen"/>tron, and Dr. <hi>Gliſſon,</hi> and ſome others; tho now much neglected where it ought to be moſt cultivated.</p>
+            <p>One part ſeems to be wholly neglected (from which the greateſt Practical Skill is to be attained) that is by feeding, or ſuddain killing Animals with Poifons, Volatil, or Lixivial Salts, or with any of the ſtronger Simples, and after opening them, to find out the effects upon the Blood, and Humours of the Body. Whoſoever hath rightly conſidered and digeſted the Phyſical qualities (which is a great defect in Medicine) will attain very clearly the true Nature of things, as appliable to Man's Body, and diſcover plainly the infinite Errors in Practice, and may demonſtrate his Practice by reaſoning from Effect to Cauſe, and from Cauſe to Effect; and then by comparing one to another, and thoſe to the Tribes here<g ref="char:EOLhyphen"/>after mentioned.</p>
+            <p>The other Leg of Phyſick is, The knowledge of Natural things, in the Latitude after expreſſed.</p>
+            <p>'Tis not the buſineſs of this Paper to ſet forth the great and large extent of Phyſic, that is of all Tangible Bodies of the Uni<g ref="char:EOLhyphen"/>verſe. This hath bin frequently perform'd in many Orations, and Harangues at the College of Phyſicians, eſpecially in that incom<g ref="char:EOLhyphen"/>parable Speech of Sir <hi>Thomas Millington,</hi> both for Matter and Lan<g ref="char:EOLhyphen"/>guage, <hi>Anno</hi> 1679.</p>
+            <p>That which is intended in this Paper is, to ſet out a Compleat Phyſician, and thereby to guide people in their choice, when they have occaſion to uſe one; wherein men are exceedingly miſtaken, to the loſs of Health, Life, and Money.</p>
+            <p>I begin with the Name, which is in our <hi>Engliſh</hi> Tongue the moſt proper of any Language whatſoever. The word Phyſician, derived from the Greek <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, is plainly and fully rendred by the
+<pb n="3" facs="tcp:133296:2"/>
+               <!-- PDF PAGE 94 -->word <hi>Naturaliſt,</hi> (that is) one well vers'd in the full extent of Nature, and Natural things; hereunto add the due, and skilful preparation and application of them to Mens Bodies, in order to their Health, and prolongation of Life, and you have a compre<g ref="char:EOLhyphen"/>henſive Definition of a Phyſician. 'Tis not then a particular Knowledge or Art of one or a few things, but in general of all Bodies, whether Elements, inanimate, or living.</p>
+            <p>Now this Knowledge implies not only a bare viſible skill of their Names, and Parts only; but a ſtrict and ſerious examination of them by diligent experiments, and tryals of them by all the Senſes, by all wayes, and compariſons amongſt themſelves, to inveſtigate their Natures relating to men principally, and all other uſes they may be applyed to. I ſhall ſpeak briefly to each, and firſt of Plants.</p>
+            <p>
+               <hi>Vegetables</hi> being the largeſt Genus in Nature, comprehendeth the greateſt part by far of <hi>Materia Medica,</hi> or things uſed for Phyſic. Theſe are to be known in all their Parts, by Name, as alſo as digeſted into Tribes, and Families as they are reaſonably well done by both the <hi>Baubins,</hi> and better by Dr. <hi>Moriſon,</hi> tho not ſo ſuitable to the deſign of teaching others, as 'tis to be wiſhed they had. But of his Work and a better Method, ſomething ſhall be ſhewed in due time.</p>
+            <p>By a right Method may be more than conjectured the pro<g ref="char:EOLhyphen"/>perties of Simples by the bare firſt ſight of them, and fully known by the other ſenſes, as every one muſt confeſs, who hath ſeri<g ref="char:EOLhyphen"/>ouſly reflected on this Matter. Nay, hereby alſo may well nigh be known (I had almoſt ſaid) perfectly, what they will afford, what Waters, Chymical Oils, Spirits, Salts, and in what quan<g ref="char:EOLhyphen"/>tity. This, I do not ſay of all the Tribes, but of moſt of them in a juſt Method delivered. But if you apply them to the other Senſes, eſpecially taſt and ſmell, and other tryals may be found out their full Nature. But then there is required ſome exerciſes of the Senſes, and exactneſs in them, and alſo the skill of words adapted to each ſenſe. As for Taſts the Vintners have added ſome, and where defect is, more are to be invented. The want of words appliable to our Senſes, is the greateſt impediment to the improvement of this moſt divine and uſeful Art.</p>
+            <p>The next thing is, to range into a good Method what Proper<g ref="char:EOLhyphen"/>ties are ſutable to what Diſeaſes, and what parts in particular, (let the inſtance be bitter) as alſo in what hurtful. And by this
+<pb n="4" facs="tcp:133296:3"/>
+               <!-- PDF PAGE 95 -->way, you may in a few ſheets of Paper compriſe all Diſeaſes well defined, and their Remedies by Simples (generally the beſt way of Practice) more fully, more ſcientifically, and better retained, than in many and huge Volumes of Herbals, Pharmacopaea's, and Practical Writers.</p>
+            <p>This being done, then the Phyſician is to find out by Tryals, Sympathies, and Antipathies, as to Mixture of them one with another, Preparation of them by Powdering, <hi>&amp;c.</hi> and by Diſtil<g ref="char:EOLhyphen"/>lation; whereby may be known, what is fit for Diſtillation, what for Decoctions. 'Tis a ſhame to ſee the Pharmacopaea's ſtufft with ſuch a multitude of diſtill'd Water and not one in ten good for any thing, nay offenſive both to taſt, ſmell, and ſtomach. Nay, there are few of the more generous Spirits, but have Ingredients which afford nothing beneficial, but rather pre<g ref="char:EOLhyphen"/>judicial to thoſe Compound Waters: Whereby the Apotheca<g ref="char:EOLhyphen"/>ries Shops are ſurcharged to their great trouble, and hurt to the Patient, by ſuch nauſeous and offenſive Waters, whereof more may be ſaid on occaſion, and ſome may be added, wholly unknown, tho very common, and written of by Authors, and no Vertues annexed to them.</p>
+            <p>Then let him obſerve what Seaſons (not Aſtrological Confi<g ref="char:EOLhyphen"/>gurations) are beſt to gather Herbs; for 'tis certain, ſome Plants ſhall at ſome Seaſons yield well, at other little, or no<g ref="char:EOLhyphen"/>thing good.</p>
+            <p>This Phyſician alſo is to have ſome skill in Chymiſtry, to de<g ref="char:EOLhyphen"/>tect Cheats, improve Philoſophy, and ſome Medicines which may be uſeful.</p>
+            <p>He may attain to the Knowledge of Emperics Medicines, being generally leſs compounded than in the Shops; and there<g ref="char:EOLhyphen"/>by ſhall find out ſome uſeful Medicines by a skilful Analyſis of them; but more eſpecially by experimenting them with o<g ref="char:EOLhyphen"/>ther Bodies.</p>
+            <p>He is acquainted with the Philoſophical Trades, eſpecially the Refiners and Dyers, for he that is verſed in the latter, chiefly of the Silk and Linnen Dyer may without much difficulty diſco<g ref="char:EOLhyphen"/>ver, the compounds of Medicinal Waters, which hath hitherto puzled all the World. Add hereto that no Manufacture but affords ſome light in Phyſics.</p>
+            <p>As for Minerals, diſſolved in their proper Menſtrua, he ſhall have the moſt dry and aſtrictive Taſt and Nature of
+<pb n="5" facs="tcp:133296:3"/>
+               <!-- PDF PAGE 95 -->Gold, the moſt bitter of Silver, the moſt nauſeous rough and contracting taſt of Copper, the ſweetiſh of Lead and Tyn, the rough and aſtringent of Iron.</p>
+            <p>As for Animals they moſtly ſerve for food, and yield much volatil Salt, ſome Water, Spirit, and Lixivial Salt, little dif<g ref="char:EOLhyphen"/>fering each from other, all which the Phyſician ought to know, which and what parts of them are beſt and uſeful, and where<g ref="char:EOLhyphen"/>in. Two Books I recommend for Birds, Mr. <hi>Willoughby</hi> Pub<g ref="char:EOLhyphen"/>liſhed by the excellent Mr. <hi>Ray;</hi> The other of Shells, <hi>&amp;c.</hi> done by Mr. <hi>Lyſter</hi> of <hi>York,</hi> both which are Treated in a moſt ſin<g ref="char:EOLhyphen"/>gular Method.</p>
+            <p>And for Inſects, <hi>Muſſet</hi> and <hi>Johnſon</hi> are beſt.</p>
+            <p>As for Fiſhes, they are yet very confuſedly digeſted. Theſe with the other Natural things are Methodized in an eaſie way, and may come abroad.</p>
+            <p>Earths, Their Natures are eaſily diſcovered by the Senſes, and ready Experiments, and pretty well known.</p>
+            <p>Stones many have written of, but their Qualities falſly deli<g ref="char:EOLhyphen"/>vered for gain only, and are not of much uſe; yet ſome our Countrey affords, much ſurpaſſing Pearl and Coral in deſtroying Acids, their principal, if not ſole uſe.</p>
+            <p>This Phyſician can diſcern betwixt true and Counterfeit Me<g ref="char:EOLhyphen"/>dicins, what Remedies either Simple, or Compound; as for Stran<g ref="char:EOLhyphen"/>gers brought from foreign Parts, he can diſcover their Uſes and Qualities, and whereof compunded, and perhaps exalt their Vertues by imitating them, and eaſily find the Cheats in them.</p>
+            <p>He can give proper Names and Definitions to all Natural things brought to him.</p>
+            <p>He knows what things are of great Charge, but of little Uſe, and the various degrees of their Natures. He can invent more grateful, plain, and effectual Medicines than are commonly in uſe, except to ſuch Perſons to whom nothing that is Phyſic is grateful.</p>
+            <p>From Ignorance of theſe things, proceeds (that great Im<g ref="char:EOLhyphen"/>pediment of Improvement in this Art) the Doctrine of Oc<g ref="char:EOLhyphen"/>cult Qualities. The unſteddineſs of Phyſicians in their choice of and adhering to good Medicines, (not knowing they are ſo) for in this ſence <hi>Hipp.</hi> Aphor. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Experience is De<g ref="char:EOLhyphen"/>ceitful,</hi>) is moſt true. Hence Receipts get Credit, Medicines
+<pb n="6" facs="tcp:133296:4"/>
+               <!-- PDF PAGE 96 -->ſo often altered, and new ones gap't after, whereof as yet there is no end.</p>
+            <p>This Phyſician rightly conſidering finds, The Herbals make ſome Plants as well as the Chymiſts make almoſt all their Me<g ref="char:EOLhyphen"/>dicines to be Univerſal, ſo leading people into many, and ſometimes dangerous Errors.</p>
+            <p>He is able to adviſe fitting Diet, and Remedies, at all times and places, whereſoever he comes, which cannot be done with<g ref="char:EOLhyphen"/>out the foreſaid Knowledge.</p>
+            <p>But the Reader will ask whether there be any ſuch Phyſician in the World, or ever was, or may be. Anſwer yea, and that 'tis not difficult where a good Method and ſtubborn Labour go together.</p>
+            <p>He is furniſhed with a good Library, of ſuch Authors as Treat on thoſe Arguments. 'Tis a great reproach that ſome Phyſi<g ref="char:EOLhyphen"/>cians of great Fame and Practice, gotten by ill and ungenerous wayes, know very little or nothing in any thing aboveſaid, and have ſcarce a Book towards any of thoſe ends, unleſs of Ana<g ref="char:EOLhyphen"/>tomy.</p>
+            <p>This Phyſician doth truly maintain the honour of his Profeſſion, avoids the due reproaches of ſuch as are Subordinate to him, can with ſenſible Arguments confute the obſtreperous falſhoods of the Adverſaries of his Faculty, and his own, can judge clearly of the falſhoods and deceits of Phyſic-mongers.</p>
+            <p>He takes that way that one of the great Maſters of his Art, <hi>Galen</hi> did, ſpares no Pains, Travail, or Charge to inveſtigate new and better Materials for his Art. <hi>Galen</hi> and many other have Travailed into far Countries to this very purpoſe.</p>
+            <p>Laſtly, He takes nothing upon truſt, but conſults his own Senſes, and other ſtrict tryals, and becomes a Compleat Natu<g ref="char:EOLhyphen"/>raliſt or Phyſician.</p>
+            <p>But tho my task here ends, yet his Religion and Morality are to be conſidered. As for the former he hath woven into his Pra<g ref="char:EOLhyphen"/>ctice the <hi>Religio Medici</hi> of that famous Perſon, and Honor too of this Art, Sir <hi>Thomas Brown</hi> of <hi>Norwich,</hi> to whom I recommend the Reader.</p>
+            <p>His Morality is ſober, grave, continent, pitiful to, and care<g ref="char:EOLhyphen"/>ful of his Patients; Writing his Receipts ſolely for their good, and not for the gain of others his Subordinates. He is continent wiſe and prudent, mild and modeſt, hath veracity and clearneſs
+<pb n="7" facs="tcp:133296:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 96 -->in all his Sayings. In his Prognoſticks exceeds not the boundaries of his Art, and Nature, his proper Sphere; abominates the common way of conforming his Religion to his Intereſt, and the uſual frauds of Aſtrology and Uromantie.</p>
+            <p>He is decent in his Habit, courteous in Behaviour, neither mo<g ref="char:EOLhyphen"/>roſe, nor talkative, able and ready to ſatisfie any of his Patients in hearing the Sick man's Complaint, and rationally to ſatisfie him in his Scruples. Determines nothing till he hath a full and clear Idaea of the Diſeaſe, Symptoms, and their Cauſes, and not till then; ſquares his Intentions and Medicaments to each of them.</p>
+            <p>He ſmiles at the common Vogue of the World in chooſing their Phyſicians, and envies not thoſe empty ones who gain great Eſtates and Glory, by outward ſhews, and by ungentile, and ſome by ſordid and debauched wayes. Such as have only a modiſh Habit, a neat and well-furniſhed Houſe, a Coach and Horſes, a Velvet Coat, a fine Periwig, a curiouſly-headed Cane, a ſmooth and ſtarched Behaviour, flattering Language, commending all, enſlaving his Judgment to the hearer's Opinion, officious needleſs, and frequent Viſits. He laughs out-right at thoſe who ſpend their precious time in hearing and hunting after News, and car<g ref="char:EOLhyphen"/>rying it from Houſe to Houſe, and thoſe who read Lectures on Chairs, Beds, Rooms and Hangings, or on <hi>Don Quixot.</hi> He thinks the uſual aucupium of Entertainments; telling of Shews miſpent time, and judgeth not theſe any part of his Profeſſion. But in all theſe little Arts, which ſerve only to gain, he uſeth commendable Prudence. And at all ſpare times you ſhall find him in his Study, where I leave him.</p>
+            <p>But perhaps the conſidering, inferring, and knowing Reader doth expect a Character alſo of thoſe who are call'd Mountebanks, and Empiricks; becauſe contraries illuſtrate each others. To whom this anſwer may be given. The firſt is, He that may be call'd ſo, without any Action at Law, as being not lawfully permitted to Practice by the Laws of <hi>England.</hi> But this ſenſe reacheth not the meaning of the word. <hi>Empiric</hi> is a Greek word coming from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Experience,</hi> and ſignifies no more than an Experimentor; that is, one that pretends only Experience for his Practice, (which <hi>Hipp. Aph.</hi> 1. calls <hi>Deceitful</hi>) without ability of giving a rational ac<g ref="char:EOLhyphen"/>count of the Diſeaſe, Cauſe, Symptoms, and Medicines he pre<g ref="char:EOLhyphen"/>ſcribes; ſo that an unlawful Practiſer, (if able) may not be call'd
+<pb n="8" facs="tcp:133296:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 97 -->in this true and genuine ſenſe an Empiric; Nor he (though a Li<g ref="char:EOLhyphen"/>cenciate to Practice) be untruly ſaid to be an Empiric, tho in the higheſt order of Licenciats. I conclude by ſaying, That he who hath the feweſt of the aboveſaid requiſites of a Compleat Phyſician, according to the degrees of his receſs therefrom, may deſerve this ignominious Title.</p>
+            <p>Mountebanks are properly &amp; only ſuch, who upon Stages and in open places proclaim (commonly with the addition of Antic tricks as good as thoſe forementioned, diſclaimed by the Compleat Phy<g ref="char:EOLhyphen"/>ſician, tho done in retail, and in private, and therefore leſs ob<g ref="char:EOLhyphen"/>ſerved) the great Experience of his moſt ſingular Remedies, ſuita<g ref="char:EOLhyphen"/>ble to all Perſons, Ages, and Sexes.</p>
+            <p>To fill up this empty Page, take a part of an Elegant Fable of <hi>Phaedrus,</hi> of a Cobler turn'd Phyſician.</p>
+            <q xml:lang="lat">
+               <l>Non artis ulla Medicum ſe prudentia,</l>
+               <l>Verum ſtupore vulgi factum nobilem,</l>
+               <l>Rex, advocata concione, haec addidit,</l>
+               <l>Quantae putatis eſſe vos dementiae,</l>
+               <l>Qui capita vestra non dubitatis credere,</l>
+               <l>Cui calceandos nemo commiſerit pedes.</l>
+               <l>Hoc pertinere verè ad illos dixerim,</l>
+               <l>Quorum ſtultitiae quaeſtus impudentia eſt.</l>
+            </q>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:133296:5" rendition="simple:additions"/>
+            <!-- PDF PAGE 97 -->
+            <pb facs="tcp:133296:6" rendition="simple:additions"/>
+            <!-- PDF PAGE 98 -->
+            <pb facs="tcp:133296:6" rendition="simple:additions"/>
+            <!-- PDF PAGE 98 -->
+            <pb facs="tcp:133296:7" rendition="simple:additions"/>
+            <!-- PDF PAGE 99 -->
+         </div>
+      </body>
+   </text>
+</TEI>
